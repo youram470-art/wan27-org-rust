@@ -1,0 +1,17 @@
+[package]
+name = "wan27-org"
+version = "0.1.0"
+edition = "2021"
+authors = ["wan27.org <support@wan27.org>"]
+description = "Integration package for https://wan27.org"
+license = "MIT"
+homepage = "https://wan27.org"
+repository = "https://github.com/youram470-art/wan27-org-rust"
+documentation = "https://wan27.org/docs"
+readme = "README.md"
+
+[lib]
+name = "wan27_org"
+path = "src/lib.rs"
+
+[dependencies]
